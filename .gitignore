@@ -1,0 +1,3 @@
+#.gitignore
+finanzas_venv/
+__pycache__/
